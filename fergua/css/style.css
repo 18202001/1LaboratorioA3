@@ -1,0 +1,69 @@
+body{
+   background:url("../images/fegua5.jpg") center;
+   background-size:cover;
+   background-attachment:fixed;
+   background-position: auto;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover; 
+}  
+.section{
+   width:91%;
+   border-top:10px dashed #999;
+   margin:20px auto;
+}
+.figure{
+   float:left;
+   padding: 10px;
+   margin: auto 30px;
+}
+.figure img{
+   width: 250px;
+   height: 250px;
+   padding:6px;
+   background:#999;
+   border-radius:20px;
+   border-width:50px;
+}
+.figure img:hover{
+   -webkit-transform:scale(1.2);
+   alignment-adjust:central;
+   -webkit-transform:rotate(720deg)
+   scale(2.2);
+   cursor:wait;
+}
+.figcaption{
+   font-family:impact;
+   font-size:60px;
+   background-color:#7CEE5D;
+   color:#F07A23;
+   text-align:center;
+   margin-top:8px;
+   border-width:50px;
+}
+.footer{
+   clear:both;
+   padding-top:100px;
+}
+.footer p{
+   font:1.6em Georgia, "Times New Roman", Times, serif;
+   color:#999;
+   margin:10px 8px;
+}
+
+.gb {
+   font-family:Times New Roman;
+   color:#0E0E02;
+   font-size:45px;
+}
+
+.gg {
+   font-family:Times New Roma;
+   color:#0E0E02;
+   font-size:50px;
+}
+
+.hover{
+   font-family:Times New Roma;
+   color:#42557B;
+   font-size:70px;
